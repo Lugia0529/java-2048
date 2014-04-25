@@ -1,0 +1,8 @@
+bin/
+gen/
+out/
+META-INF/
+.idea
+.settings
+2048.iml
+Thumbs.db
